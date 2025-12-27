@@ -24,17 +24,17 @@ Password Manager is a simple and secure application to store and manage your pas
 
 Add Password:
 
-1.Choose the “Add Password” option.
+1. Choose the “Add Password” option.
 
-2.Enter the site name and password.
+2. Enter the site name and password.
 
-3.The password will be encrypted and stored securely.
+3. The password will be encrypted and stored securely.
 
 
 # Retrieve Password:
 
-1.Choose the “Retrieve Password” option.
+1. Choose the “Retrieve Password” option.
 
-2.Enter the site name.
+2. Enter the site name.
 
-3.The stored password will be decrypted and displayed.
+3. The stored password will be decrypted and displayed.
