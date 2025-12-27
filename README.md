@@ -13,9 +13,9 @@ Password Manager is a simple and secure application to store and manage your pas
    git clone https://github.com/saumya103/Password-Manager.git
    cd PasswordManager
 
-2.Compile the Java files: javac PasswordManager.java
+2. Compile the Java files: javac PasswordManager.java
 
-3.Run the application: java PasswordManager
+3. Run the application: java PasswordManager
 
 # Usage
 
