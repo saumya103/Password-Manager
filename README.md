@@ -8,9 +8,6 @@ Password Manager is a simple and secure application to store and manage your pas
 - Java
 - AES Encryption
 # Setup Instructions
-# Password Manager
-
-## Setup Instructions
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/saumya103/Password-Manager.git
