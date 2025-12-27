@@ -20,7 +20,7 @@ Password Manager is a simple and secure application to store and manage your pas
 
 3.Run the application: java PasswordManager
 
-Usage
+# Usage
 
 Add Password:
 
@@ -31,7 +31,7 @@ Add Password:
 3.The password will be encrypted and stored securely.
 
 
-Retrieve Password:
+# Retrieve Password:
 
 1.Choose the “Retrieve Password” option.
 
